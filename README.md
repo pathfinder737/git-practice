@@ -1,2 +1,3 @@
 # git-practice
-git test
+git 실습연습
+2023.12.30
